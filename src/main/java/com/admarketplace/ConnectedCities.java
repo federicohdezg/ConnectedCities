@@ -3,6 +3,8 @@ package com.admarketplace;
 import com.admarketplace.model.InputArguments;
 import com.admarketplace.service.ConnectedCitiesService;
 import com.admarketplace.validate.InputValidator;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 
 import java.io.IOException;
 
@@ -20,11 +22,13 @@ import java.io.IOException;
  */
 public class ConnectedCities {
 
+    private static final Logger logger = LogManager.getLogger(ConnectedCities.class);
+
     public static void main(final String[] args) {
         try {
-            System.out.println(connected(args));
+            logger.info(connected(args));
         } catch (Exception e) {
-            e.printStackTrace();
+            logger.error("An error:", e);
         }
     }
 
