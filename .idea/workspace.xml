@@ -4,30 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6ff4661-9bc3-43fd-a5ba-6be950378fee" name="Changes" comment="Initial version">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/admarketplace/ConnectedCities.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/admarketplace/model/InputArguments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/admarketplace/service/ConnectedCitiesService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/admarketplace/util/FileReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/admarketplace/util/LineConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/admarketplace/validate/InputValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/admarketplace/ConnectedCitiesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/admarketplace/model/InputArgumentsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/admarketplace/service/ConnectedCitiesServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/admarketplace/util/FileReaderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/admarketplace/util/LineConverterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/admarketplace/validate/InputValidatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/connected.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="b6ff4661-9bc3-43fd-a5ba-6be950378fee" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -244,11 +223,27 @@
       <option name="presentableId" value="Default" />
       <updated>1714275095151</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial version">
+      <created>1714360098830</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714360098831</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Git Hub project URL">
+      <created>1714360221128</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714360221128</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial version" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial version" />
+    <MESSAGE value="Git Hub project URL" />
+    <option name="LAST_COMMIT_MESSAGE" value="Git Hub project URL" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
